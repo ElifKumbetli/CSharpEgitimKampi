@@ -1,4 +1,5 @@
-🚀 C# Eğitim Kampı
+🚀 C# EĞİTİM KAMPI
+
 Bu repo, Murat Yücedağ'ın YouTube üzerinden takip ettiğim C# Eğitim Kampı kapsamında öğrendiğim konuları ve tamamladığım projeleri içermektedir. 📌 Eğitim sürecinde temel programlama kavramlarından başlayarak, ileri seviye tekniklere kadar birçok konuyu öğrendim. Her adımda pratik yaparak bilgimi pekiştirdim ve projeler geliştirdim. 🏆
 
 📍 Proje 1 - Yazdırma Komutları ✍️
@@ -21,3 +22,4 @@ Dizi kavramını öğrenerek, veri saklama ve erişim yöntemlerini test ettim. 
 
 📍 Proje 7 - Metotlar ⚙️
 Metotları öğrenerek, kod tekrarını azaltmanın ve daha düzenli bir yapı oluşturmanın önemini kavradım. Parametreli ve parametresiz metotlar yazarak farklı senaryolar üzerinde çalıştım. 🏗️
+
