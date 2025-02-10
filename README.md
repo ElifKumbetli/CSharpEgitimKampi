@@ -1,6 +1,6 @@
 # 🚀 **C# EĞİTİM KAMPI**
 
-Bu repo, **Murat Yücedağ**'ın YouTube üzerinden takip ettiğim **C# Eğitim Kampı** kapsamında öğrendiğim konuları ve tamamladığım projeleri içermektedir. 📌 Eğitim sürecinde temel programlama kavramlarından başlayarak, ileri seviye tekniklere kadar birçok konuyu öğrendim. Her adımda pratik yaparak bilgimi pekiştirdim ve projeler geliştirdim. 🏆
+Bu repo, **Murat Yücedağ**'ın YouTube üzerinden takip ettiğim **C# Eğitim Kampı** kapsamında öğrendiğim konuları ve tamamladığım projeleri içermektedir. 📌 Eğitim sürecinde temel programlama kavramlarından başlayarak, ileri seviye tekniklere kadar birçok konuyu öğrendim. Her adımda pratik yaparak bilgimi pekiştirdim ve küçük ölçekli uygulamalar geliştirdim. 🏆
 
 ---
 
@@ -40,8 +40,12 @@ Dizi kavramını öğrenerek, veri saklama ve erişim yöntemlerini test ettim. 
 
 ---
 
-### 📍 **Proje 7 - Metotlar ⚙️**
+### 📍 **Proje 7 - Foreach Döngüsü 🔄**
 
-Metotları öğrenerek, kod tekrarını azaltmanın ve daha düzenli bir yapı oluşturmanın önemini kavradım. Parametreli ve parametresiz metotlar yazarak farklı senaryolar üzerinde çalıştım. 🏗️
+`foreach` döngüsünü öğrenerek diziler ve koleksiyonlar üzerinde nasıl daha verimli işlem yapabileceğimi kavradım. Farklı veri yapılarını kullanarak örnekler geliştirdim. 🔁
 
 ---
+
+### 📍 **Proje 8 - Metotlar ⚙️**
+
+Metotları öğrenerek, kod tekrarını azaltmanın ve daha düzenli bir yapı oluşturmanın önemini kavradım. Parametreli ve parametresiz metotlar yazarak farklı senaryolar üzerinde çalıştım. 🏗️
