@@ -14,6 +14,8 @@ namespace _09_DatabaseProject
         {
             //Ado.net: C# da sql yapılarını kullanabilmemize olanak sağlayan bir çerçeve.
 
+            //ADO.NET (ActiveX Data Objects .NET),
+            //.NET Framework içinde yer alan bir veri erişim teknolojisidir.
             Console.WriteLine("******C# Veri Tabanlı Ürün-Kategori Bilgi Sistemi******");
             Console.WriteLine();
             Console.WriteLine();
