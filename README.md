@@ -49,3 +49,15 @@ Dizi kavramını öğrenerek, veri saklama ve erişim yöntemlerini test ettim. 
 ### 📍 **Proje 8 - Metotlar ⚙️**
 
 Metotları öğrenerek, kod tekrarını azaltmanın ve daha düzenli bir yapı oluşturmanın önemini kavradım. Parametreli ve parametresiz metotlar yazarak farklı senaryolar üzerinde çalıştım. 🏗️
+
+---
+
+### 📍 **Proje 9 - Ürün-Kategori Bilgi Sistemi 💾**  
+
+Bu projede, SQL veritabanına bağlanarak tablo verilerini listeleyen bir uygulama geliştirdim. `SqlConnection` ve `SqlCommand` kullanarak veri çekme işlemlerini deneyimledim.  
+
+---
+
+### 📍 **Proje 10 - Menü Sipariş Paneli 📊**  
+
+Temel CRUD işlemlerini uygulayarak SQL veritabanı ile etkileşim sağladım. Ürün ve kategori bilgilerini ekleme, güncelleme ve silme işlemlerini gerçekleştirerek dinamik bir yapı oluşturdum.  
